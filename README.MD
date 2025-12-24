@@ -3,7 +3,7 @@
 Tracking my progress through
 [Rustlings](https://github.com/rust-lang/rustlings).
 
-**Current exercise:** `if2`
+**Current exercise:** `primitive_types1`
 
 ## Exercises
 
@@ -23,9 +23,9 @@ Tracking my progress through
 | functions4 | completed |
 | functions5 | completed |
 | if1 | completed |
-| if2 | current |
-| if3 | not started |
-| primitive_types1 | not started |
+| if2 | completed |
+| if3 | completed |
+| primitive_types1 | current |
 | primitive_types2 | not started |
 | primitive_types3 | not started |
 | primitive_types4 | not started |
